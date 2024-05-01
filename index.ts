@@ -4,7 +4,7 @@ import chalk from "chalk";
 
 let user = {
     name:"nehaMehboob",
-    pin:12345,
+    pin:123456,
     balance:100000
 };
 
